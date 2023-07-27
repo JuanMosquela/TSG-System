@@ -1,0 +1,15 @@
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\bin\Debug\net7.0\universidad.exe
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\bin\Debug\net7.0\universidad.deps.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\bin\Debug\net7.0\universidad.runtimeconfig.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\bin\Debug\net7.0\universidad.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\bin\Debug\net7.0\universidad.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.csproj.AssemblyReference.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.AssemblyInfoInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.AssemblyInfo.cs
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.csproj.CoreCompileInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\refint\universidad.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\universidad.genruntimeconfig.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\universidad\obj\Debug\net7.0\ref\universidad.dll

@@ -1,0 +1,15 @@
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\bin\Debug\net7.0\receta.exe
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\bin\Debug\net7.0\receta.deps.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\bin\Debug\net7.0\receta.runtimeconfig.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\bin\Debug\net7.0\receta.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\bin\Debug\net7.0\receta.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.csproj.AssemblyReference.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.AssemblyInfoInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.AssemblyInfo.cs
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.csproj.CoreCompileInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\refint\receta.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\receta.genruntimeconfig.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\receta\obj\Debug\net7.0\ref\receta.dll

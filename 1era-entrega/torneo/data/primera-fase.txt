@@ -1,0 +1,63 @@
+Jueves 14 de junio:
+Rusia - Arabia Saudita A Boca Jr
+Viernes 15 de junio:
+Egipto - Uruguay GRUPO A San Lorenzo
+Marruecos - Irán GRUPO B River Plate
+Portugal - España GRUPO B Huracan
+Sábado 16 de junio:
+Francia - Australia GRUPO C Racing Club
+Argentina - Islandia GRUPO D Boca Jr
+Perú - Dinamarca GRUPO C Velez Sarfield
+Croacia - Nigeria GRUPO D Racing Club
+Domingo 17 de junio:
+Costa Rica - Serbia GRUPO E River Plate
+Alemania - México GRUPO F River Plate
+Brasil - Suiza GRUPO E San Lorenzo
+Lunes 18 de junio:
+Suecia - Corea Sur GRUPO F River Plate
+Bélgica - Panamá GRUPO G Boca Jr
+Túnez - Inglaterra GRUPO G San Lorenzo
+Martes 19 de junio:
+Polonia - Senegal GRUPO H Huracan
+Colombia - Japón GRUPO H Rosario Central
+Rusia - Egipto GRUPO A Velez Sarfield
+Miércoles 20 se junio:
+Portugal - Marruecos GRUPO B River Plate
+Uruguay - Arabia Saudita GRUPO A Huracan
+Irán - España GRUPO B San Lorenzo
+Jueves 21 de junio:
+Francia - Perú GRUPO C Velez Sarfield
+Dinamarca - Australia GRUPO C Huracan
+Argentina - Croacia GRUPO D San Lorenzo
+Viernes 22 de junio:
+Brasil - Costa Rica GRUPO E Racing Club
+Nigeria - Islandia GRUPO D River Plate
+Serbia - Suiza GRUPO E San Lorenzo
+Sábado 23 de junio:
+Bélgica - Túnez GRUPO G Huracan
+Alemania - Suecia GRUPO F Boca Jr
+Corea Sur - México GRUPO F Boca Jr
+Domingo 24 de junio:
+Inglaterra - Panamá GRUPO G Rosario Central
+Japón - Senegal GRUPO H San Lorenzo
+Polonia - Colombia GRUPO H Huracan
+Lunes 25 de junio:
+Arabia Saudita - Egipto GRUPO A Racing Club
+Uruguay - Rusia GRUPO A River Plate
+España - Marruecos GRUPO B River Plate
+Irán - Portugal GRUPO B Boca Jr
+Martes 26 de junio:
+Dinamarca - Francia GRUPO C Huracan
+Australia - Perú GRUPO C Racing Club
+Islandia - Croacia GRUPO D Huracan
+Nigeria - Argentina GRUPO D San Lorenzo
+Miércoles 27 de junio:
+Corea Sur - Alemania GRUPO F River Plate
+México - Suecia GRUPO F River Plate
+Serbia - Brasil GRUPO E Boca Jr
+Suiza - Costa Rica GRUPO E Boca Jr
+Jueves 28 de junio:
+Senegal - Colombia GRUPO H Velez Sarfield
+Japón - Polonia GRUPO H Racing Club
+Inglaterra - Bélgica GRUPO G Velez Sarfield
+Panamá - Túnez GRUPO G Racing Club

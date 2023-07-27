@@ -1,0 +1,15 @@
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.csproj.AssemblyReference.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.AssemblyInfoInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.AssemblyInfo.cs
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.csproj.CoreCompileInputs.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\bin\Debug\net7.0\torneo.exe
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\bin\Debug\net7.0\torneo.deps.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\bin\Debug\net7.0\torneo.runtimeconfig.json
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\bin\Debug\net7.0\torneo.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\bin\Debug\net7.0\torneo.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\refint\torneo.dll
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.pdb
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\torneo.genruntimeconfig.cache
+C:\Users\Juanmaa\Desktop\TSG-System\1era-entrega\torneo\obj\Debug\net7.0\ref\torneo.dll
